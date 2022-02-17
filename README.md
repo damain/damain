@@ -2,7 +2,7 @@
 
 I help companies and startups by building tools that solve problems.
 
-- 👀 I’m interested in Javascript, react, svelte, flutter 
+- 👀 I’m interested in Javascript, react, svelte, web animations 
 - 🌱 I’m currently working on personal projects
 - 💞️ Open to cool projects
 - 📫 Reach me [damain@wjatt.com](mailto:damain@wjatt.com) 
